@@ -18,3 +18,8 @@ $ node app
 For production environments...</br>
 $ npm install</br>
 $ NODE_ENV=production node app
+
+
+## Author
+
+* Temitayo
